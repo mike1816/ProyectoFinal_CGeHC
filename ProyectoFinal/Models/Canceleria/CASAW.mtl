@@ -5,34 +5,6 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd wood_table.jpg
 Ni 1.00
-newmtl SF2_lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd cafec.jpg
-Ni 1.00
-newmtl SF2_lambert3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd wood_table.jpg
-Ni 1.00
-newmtl SF2_pasted__lambert3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd wood_table.jpg
-Ni 1.00
-newmtl SF2_pasted__lambert3SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd wood_table.jpg
-Ni 1.00
 newmtl alacena_lambert2SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -318,34 +290,6 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd wood_table.jpg
 Ni 1.00
-newmtl pasted__SF2_lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd cafec.jpg
-Ni 1.00
-newmtl pasted__SF2_lambert3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd wood_table.jpg
-Ni 1.00
-newmtl pasted__SF2_pasted__lambert3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd wood_table.jpg
-Ni 1.00
-newmtl pasted__SF2_pasted__lambert3SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd wood_table.jpg
-Ni 1.00
 newmtl pasted__alacena_lambert2SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -353,19 +297,19 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd KUW_Tex.tga
 Ni 1.00
-newmtl pasted__lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd cafec.jpg
-Ni 1.00
 newmtl pasted__lambert3SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd sidewalk_pavement_texture_07.jpg
+Ni 1.00
+newmtl pasted__lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
 Ni 1.00
 newmtl pasted__lambert3SG3
 illum 4
@@ -507,20 +451,6 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd silver.jpg
 Ni 1.00
-newmtl pasted__pasted__lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd cafec.jpg
-Ni 1.00
-newmtl pasted__pasted__lambert3SG1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd wood_table.jpg
-Ni 1.00
 newmtl pasted__pasted__lambert3SG8
 illum 4
 Kd 0.00 0.00 0.00
@@ -555,6 +485,13 @@ Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd sidewalk_pavement_texture_07.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert3SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
 Ni 1.00
 newmtl pasted__pasted__lambert8SG4
 illum 4
@@ -619,7 +556,56 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd silver.jpg
 Ni 1.00
-newmtl pasted__pasted__pasted__lambert3SG1
+newmtl pasted__pasted__pasted__lambert3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl pasted__sofaR_lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl pasted__sofaR_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sofa_text.jpg
+Ni 1.00
+newmtl pasted__sofaR_pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl pasted__sofaR_pasted__pasted__lambert3SG1
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
@@ -639,4 +625,32 @@ Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd cuero_sintetico.jpg
+Ni 1.00
+newmtl sofaR_lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl sofaR_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sofa_text.jpg
+Ni 1.00
+newmtl sofaR_pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
+Ni 1.00
+newmtl sofaR_pasted__pasted__lambert3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_table.jpg
 Ni 1.00
