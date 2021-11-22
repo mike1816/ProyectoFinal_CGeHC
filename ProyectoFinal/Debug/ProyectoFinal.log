@@ -1,0 +1,10 @@
+﻿  314119252_PROYECTOFINAL_GPO8.cpp
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(503,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(730,1): warning C4010: el comentario de una sola línea contiene un carácter de continuación de línea
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(986,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(987,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(991,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(992,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(994,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\ProyectoFinal\314119252_PROYECTOFINAL_GPO8.cpp(995,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoFinal.vcxproj -> C:\Users\marci\Downloads\CGHC\Lab\Practicas\ProyectoFinal\Debug\ProyectoFinal.exe
